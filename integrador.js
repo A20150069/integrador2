@@ -1,0 +1,12 @@
+alert("Buen provecho")
+var Entrada=parseInt(prompt("El costo de la entrada es:"))
+var Segundo=parseInt(prompt("El costo el segundo es:"))
+var Entrada=parseInt(prompt("El costo de la entrada es:"))
+principal=parseInt(prompt("Ingrese el precio del plato principal"))
+postre=parseInt(prompt("Ingrese e precio del postre"))
+igv=(total*0.18)+total
+console.log("El precio de la entrada es:",entrada)
+console.log("El precio del plato principal es:",principal)
+console.log("El precio del porstre es:",postre)
+console.log("El total es:",total)
+console.log("El total incluido IGV es:",igv)
